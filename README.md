@@ -2,6 +2,8 @@
 
 Signelo is a bike light controlled by bluetooth
 
+![Prototype](docs/proto.png)
+
 * Control with a smartphone
 * Two buttons
 * [Optional] RF Remote
