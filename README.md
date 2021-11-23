@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/2841495/143024439-9ec095e8-b88d-4184-b
 # Mobile Applications
 
 We are going to use MIT APP INVENTOR
-
+![MIT APP INVENTOR](docs/mitappinventor.png)
 * [Software](https://appinventor.mit.edu/)
 * [Bluetooth Low Energy Extension](http://iot.appinventor.mit.edu/#/bluetoothle/bluetoothleintro)
 
